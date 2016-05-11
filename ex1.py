@@ -1,0 +1,8 @@
+print "Hello Python"
+print "Hello Python again"
+print "I like learning"
+print "I learning and typing is fun"
+print "especially in python"
+print "Soon I will be a python expert"
+print "Soon will create something great"
+print "Change the world using technology and software development"
